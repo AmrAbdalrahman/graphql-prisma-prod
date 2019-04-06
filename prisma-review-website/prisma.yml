@@ -1,0 +1,6 @@
+#endpoint: https://eu1.prisma.sh/amr-ahmed-00564b/graphql-prisma/dev
+#endpoint: http://localhost:4466
+#endpoint: http://192.168.99.100:4466
+endpoint: https://eu1.prisma.sh/amr-ahmed-00564b/review-website/dev
+#endpoint: http://localhost:4466
+datamodel: datamodel.prisma
