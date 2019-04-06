@@ -4,4 +4,4 @@
 #endpoint: https://eu1.prisma.sh/amr-ahmed-00564b/graphql-prisma/dev
 endpoint: ${env:PRISMA_ENDPOINT}
 datamodel: datamodel.prisma
-secret: magicanosecrettest
+secret: ${env:PRISMA_SECRET}
